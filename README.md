@@ -1,31 +1,34 @@
 <div align="center">
 
-<!-- JENDELA KETIK OTOMATIS (BAGIAN YANG BERGERAK) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=00FF99&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+Saya+Eko+Ryan.;Saya+sedang+belajar+pengembangan+web.;Dan+desain+antarmuka+(UI%2FUX)." alt="Typing SVG" />
+  <!-- Bagian Header -->
+  <h2 align="center">Hi, Saya Eko Ryan 👋</h2>
+  <p align="center"><i>"Turning pixels and logic into meaningful experiences."</i></p>
 
-<br>
+  <br>
 
-<!-- BAGIAN TEKS UTAMA (RAPI & MUDAH DIBACA) -->
-<div align="center" style="max-width: 700px; line-height: 1.6; font-family: sans-serif;">
+  <!-- Bagian Utama dengan Box -->
+  <table align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; background-color: #0d1117;">
+    <tr>
+      <td align="left">
+        <h3>💡 Tentang Saya</h3>
+        <p>
+          Didorong oleh rasa ingin tahu, saya mendedikasikan diri untuk terus belajar dan mendalami <b>fundamental</b> di balik setiap baris kode maupun elemen visual. 
+          Melalui pemahaman dasar yang kuat, saya berkomitmen untuk membangun karya yang tidak hanya mengutamakan <b>detail</b> dan <b>performa tinggi</b>, 
+          tetapi juga memberikan <b>pengalaman yang bermakna</b> bagi pengguna.
+        </p>
 
----
+        <h3>☕ Di Luar Coding</h3>
+        <p>
+          Selain <i>coding</i> dan desain, saya juga senang belajar tentang teknologi baru, membaca buku pengembangan diri, 
+          dan saya juga termasuk dalam <b>Vibe Coding</b> yang sedang berkembang dan mendalami <b>Fundamental</b>.
+        </p>
+      </td>
+    </tr>
+  </table>
 
-#### 💡 Tentang Saya
+  <br>
+  
+  <!-- Animasi Sebagai Penutup (Menggantikan Typing SVG yang error) -->
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/technological.gif" width="300" />
 
-Didorong oleh rasa ingin tahu, saya mendedikasikan diri untuk terus belajar dan mendalami **fundamental** di balik setiap baris kode maupun elemen visual. Melalui pemahaman dasar yang kuat, saya berkomitmen untuk membangun karya yang tidak hanya mengutamakan **detail** dan **performa tinggi**, tetapi juga memberikan **pengalaman yang bermakna** bagi pengguna.
-
----
-
-#### ☕ Di Luar Coding
-
-Selain *coding* dan desain, saya juga senang belajar tentang teknologi baru, membaca buku pengembangan diri, dan saya juga termasuk dalam **Vibe Coding** yang sedang berkembang dan mendalami **Fundamental**.
-
----
-
-<!-- AKSEN PENUTUP YANG BERGERAK (SUBTIL) -->
-<br>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q3NmY4Nzk3ZDJiNDkyZDBmYjU5M2I5ZDY0MDYyZDJmNTU1YjljMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/L1X7H502zRST4AOLK7/giphy.gif" width="50px">
-<br>
-
-</div>
 </div>
