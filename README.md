@@ -1,48 +1,70 @@
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@1,300;1,400&display=swap" rel="stylesheet">
-<h2 class="sr-only">Profil Eko Ryan — UI/UX Design,Pengembang, & Data Data Analyst</h2>
-<style>
-.card{background:var(--color-background-primary);border:0.5px solid var(--color-border-tertiary);border-radius:var(--border-radius-lg);padding:1.5rem;max-width:480px;margin:1.5rem auto;animation:fu .55s ease both}
-@keyframes fu{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
-.hd{display:flex;align-items:center;gap:14px;margin-bottom:1.25rem}
-.av{width:50px;height:50px;border-radius:50%;background:var(--color-background-warning);border:0.5px solid var(--color-border-tertiary);display:flex;align-items:center;justify-content:center;font-family:'Fraunces',var(--font-serif);font-style:italic;font-size:19px;font-weight:400;color:var(--color-text-warning);flex-shrink:0}
-.gr{font-size:11px;font-weight:500;letter-spacing:.1em;text-transform:uppercase;color:var(--color-text-tertiary);margin-bottom:3px}
-.nm{font-family:'Fraunces',var(--font-serif);font-style:italic;font-size:22px;font-weight:300;color:var(--color-text-primary);line-height:1.1}
-blockquote.pq{font-family:'Fraunces',var(--font-serif);font-style:italic;font-size:15px;color:var(--color-text-secondary);line-height:1.65;padding-left:1rem;border-left:2px solid var(--color-border-warning);border-radius:0;margin:0 0 1.25rem}
-.dv{height:0.5px;background:var(--color-border-tertiary);margin:.875rem 0}
-.lb{font-size:11px;font-weight:500;letter-spacing:.1em;text-transform:uppercase;color:var(--color-text-tertiary);margin-bottom:.45rem}
-.tx{font-size:14px;line-height:1.8;color:var(--color-text-secondary);margin-bottom:1.25rem}
-.tx strong{font-weight:500;color:var(--color-text-primary)}
-.tags{display:flex;flex-wrap:wrap;gap:6px;padding-top:1rem;border-top:0.5px solid var(--color-border-tertiary)}
-.tag{font-size:12px;font-weight:500;padding:4px 10px;border-radius:var(--border-radius-md);background:var(--color-background-warning);color:var(--color-text-warning);border:0.5px solid var(--color-border-tertiary)}
-.ft{margin-top:1.25rem;font-size:12px;font-style:italic;font-family:'Fraunces',var(--font-serif);color:var(--color-text-tertiary);text-align:center}
-</style>
+<div align="center">
+  <!-- GitHub Native Card Wrapper -->
+  <table width="480px">
+    <tbody>
+      <tr>
+        <td style="padding: 24px;">
+          
+          <!-- Header: Avatar & Nama -->
+          <table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tr>
+              <td width="50" valign="middle">
+                <code><b>Er</b></code>
+              </td>
+              <td style="padding-left: 12px;" valign="middle" align="left">
+                <sup><font color="#8b949e">HELLO, I'M</font></sup><br>
+                <font size="5"><b><i>Eko Ryan</i></b></font>
+              </td>
+            </tr>
+          </table>
 
-<div class="card">
-  <div class="hd">
-    <div class="av">Er</div>
-    <div>
-      <div class="gr">Hello, I'm</div>
-      <div class="nm">Eko Ryan</div>
-    </div>
-  </div>
+          <br>
 
-  <blockquote class="pq">"Turning pixels and logic into meaningful experiences."</blockquote>
+          <!-- Quote Section -->
+          <blockquote>
+            <p align="left">
+              <font size="3" color="#8b949e"><i>"Turning pixels and logic into meaningful experiences."</i></font>
+            </p>
+          </blockquote>
 
-  <div class="lb">About</div>
-  <p class="tx">Didorong rasa ingin tahu, saya terus belajar mendalami <strong>fundamental</strong> di balik setiap baris kode dan elemen visual — membangun karya yang mengutamakan <strong>detail</strong>, performa, dan pengalaman yang bermakna.</p>
+          <br>
 
-  <div class="dv"></div>
+          <!-- About Section -->
+          <p align="left"><b><font size="2" color="#ff9800">◆ ABOUT</font></b></p>
+          <p align="left">
+            Didorong rasa ingin tahu, saya terus belajar mendalami <strong>fundamental</strong> di balik setiap baris kode dan elemen visual — membangun karya yang mengutamakan <strong>detail</strong>, performa, dan pengalaman yang bermakna.
+          </p>
 
-  <div class="lb">Di Luar Coding</div>
-  <p class="tx">Mengulik Teknologi baru, Suka dengan buku, dan menjelajahi sisi kreatif & saya termasuk dalam<strong>Vibe Coding</strong>.</p>
+          <br>
 
-  <div class="tags">
-    <span class="tag">React</span>
-    <span class="tag">HTML / CSS</span>
-    <span class="tag">Python</span>
-    <span class="tag">UI Design</span>
-    <span class="tag">Machine Learning</span>
-  </div>
+          <!-- Outside Coding Section -->
+          <p align="left"><b><font size="2" color="#ff9800">◆ DI LUAR CODING</font></b></p>
+          <p align="left">
+            Mengulik Teknologi baru, Suka dengan buku, dan menjelajahi sisi kreatif & saya termasuk dalam <strong>Vibe Coding</strong>.
+          </p>
 
-  <div class="ft">Built with care · Fundamentals first</div>
+          <br>
+          <hr>
+          <br>
+
+          <!-- Tech Stack / Tags Section -->
+          <p align="left">
+            <img src="https://img.shields.io/badge/React-333333?style=flat-square&logo=react" />
+            <img src="https://img.shields.io/badge/HTML%20%2F%20CSS-333333?style=flat-square" />
+            <img src="https://img.shields.io/badge/Python-333333?style=flat-square&logo=python" />
+            <img src="https://img.shields.io/badge/UI%20Design-333333?style=flat-square" />
+            <img src="https://img.shields.io/badge/Machine%20Learning-333333?style=flat-square" />
+          </p>
+
+          <br>
+          
+          <!-- Footer -->
+          <p align="center">
+            <font size="2" color="#8b949e"><i>Built with care · Fundamentals first</i></font>
+          </p>
+
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
