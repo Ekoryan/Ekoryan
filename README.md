@@ -18,8 +18,7 @@
 ### 🛠️ Tech Stack
 * 🎨 **UI Design**
 * ⚛️ **React**
-* 🌐 **HTML / CSS**
-* 🐍 **Python** & **Machine Learning**
+* 🌐 **HTML / CSS**/ Javascript**
 
 ---
 <p align="center">
