@@ -18,7 +18,7 @@
 ### 🛠️ Tech Stack
 * 🎨 **UI Design**
 * ⚛️ **React**
-* 🌐 **HTML / CSS**/ Javascript**
+* 🌐 **HTML/ CSS/ Javascript**
 
 ---
 <p align="center">
