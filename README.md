@@ -16,9 +16,11 @@
 ---
 
 ### 🛠️ Tech Stack
-* 🎨 **UI Design**
-* ⚛️ **React**
+* 🎨 **UI/UX Design**
+* ⚛️ **Expreess.js**
 * 🌐 **HTML/ CSS/ Javascript**
+* 🏢 **Node.js/Codeigniter**
+* 🎧 **VSCODE - Antigravity IDE**
 
 ---
 <p align="center">
